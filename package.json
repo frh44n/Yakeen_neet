@@ -1,0 +1,26 @@
+{
+  "name": "file-upload-app",
+  "version": "1.0.0",
+  "description": "A simple file upload application using Express and EJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js" // Optional, for development with automatic restarts
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "express",
+    "ejs"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.17.3",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15" // Optional, for development use
+  }
+}
