@@ -1,5 +1,5 @@
 {
-  "name": "file-upload-app",
+  "name": "Yakeen Neet",
   "version": "1.0.0",
   "description": "A simple file upload application using Express and EJS",
   "main": "app.js",
